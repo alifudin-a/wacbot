@@ -1,0 +1,2 @@
+startapp:
+	@node app.js
